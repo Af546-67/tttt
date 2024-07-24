@@ -27,3 +27,4 @@ C:\MyFSharpApp\obj\Debug\net8.0\refint\MyFSharpApp.dll
 C:\MyFSharpApp\obj\Debug\net8.0\MyFSharpApp.pdb
 C:\MyFSharpApp\obj\Debug\net8.0\MyFSharpApp.genruntimeconfig.cache
 C:\MyFSharpApp\obj\Debug\net8.0\ref\MyFSharpApp.dll
+C:\MyFSharpApp\obj\Debug\net8.0\MyFSharpApp.sourcelink.json
